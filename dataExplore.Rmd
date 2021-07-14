@@ -111,6 +111,8 @@ This is the sort of exploratory data analysis that researchers do to try to unde
 
 + Do host taxa which are represented by more species in the data also tend to have more viruses per species on average? What might that suggest? 
 
++ Focus on a specific geographic area. For instance, what viruses might Mike the Tiger get? He is a tiger, but tigers might share viruses with some local Baton Rouge species, leading to Mike potentially becoming infected.
+
 + ... plenty of great ideas, including yours. Best of luck, and feel free to bounce ideas off of the organizers and helpers. 
 
 
