@@ -113,6 +113,8 @@ This is the sort of exploratory data analysis that researchers do to try to unde
 
 + Focus on a specific geographic area. For instance, what viruses might Mike the Tiger get? He is a tiger, but tigers might share viruses with some local Baton Rouge species, leading to Mike potentially becoming infected.
 
++ Scenario analysis: you've just discovered you are infected by some virus (could be anything in the data). Given the name of the virus, identify the potential other host species that might have given you the virus (assuming direct transmission).
+
 + ... plenty of great ideas, including yours. Best of luck, and feel free to bounce ideas off of the organizers and helpers. 
 
 
