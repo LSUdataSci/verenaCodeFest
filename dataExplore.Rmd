@@ -115,6 +115,8 @@ This is the sort of exploratory data analysis that researchers do to try to unde
 
 + Scenario analysis: you've just discovered you are infected by some virus (could be anything in the data). Given the name of the virus, identify the potential other host species that might have given you the virus (assuming direct transmission).
 
++ Develop teaching materials aimed at communicating the ecology of infectious disease, using Virion as a starting point.
+
 + ... plenty of great ideas, including yours. Best of luck, and feel free to bounce ideas off of the organizers and helpers. 
 
 
