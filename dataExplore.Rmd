@@ -22,14 +22,14 @@ output:
 
 
 
-## Virion and Verena
+## VERENA
+
+The Viral Emergence Research Initiative (VERENA) is a global consortium. Our goal is to curate the largest ecosystem of open data in viral ecology, and build tools to help predict which viruses could infect humans, which animals host them, and where they could someday emerge.
 
 
+## VIRION
 
-((This will be populated largely by Colin, I think.))
-
-
-
+With over 3 million records, the Global Virome in One Network (VIRION) database is a living encyclopedia of vertebrate viruses - including the ones that pose the greatest threats to human health. Data like these pave the way for a new era of predictive science, and form the backbone for a broader data ecosystem we’re building for animal disease surveillance.
 
 
 
@@ -57,7 +57,7 @@ There are many different bits of information, including detection information (h
 
 ```{r}
 
-virion <- read.delim('Virion.csv')
+virion <- read.delim('data/Virion.csv')
 
 
 # make an interaction matrix
